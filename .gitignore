@@ -1,0 +1,19 @@
+# Dataset — too large for GitHub
+data/
+
+# Trained model — too large for GitHub
+model/
+
+# Virtual environment — never upload this
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
